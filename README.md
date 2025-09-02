@@ -16,7 +16,3 @@ To get a local copy of this repository up and running, simply clone it to your m
 
 <p>Alternatively, if you find a mistake or want to suggest a new topic, feel free to open an issue.</p>
 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-(Note: Please replace https://github.com/your-username/KALKI_2.0.git and https://github.com/your-username/KALKI_2.0/issues with your actual repository URL.)
